@@ -1,4 +1,4 @@
-# 项目说明
+# 股票分析系统
 
 ## 1. 项目代码介绍
     backend ： 后端代码
@@ -19,3 +19,10 @@ streamlit run frontend/homepage.py
 ```bash
  pip install -r requirements.txt
 ```
+
+## 4. 功能列表
+* 用户的登录注册
+* 股票数据下载查看
+* 股票数据可视化分析
+* 股票数据实时预测
+* 股票数据问答
